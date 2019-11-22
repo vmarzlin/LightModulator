@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD4017BE
+D Johnson Counter ( 10 outputs ), DIP-16
+K CNT CNT10
+F https://www.ti.com/lit/ds/symlink/cd4017b.pdf
+$ENDCMP
+#
+$CMP CD4093BE
+D Quad 2-Input NAND Schmitt Trigger, DIP-14
+K NAND2
+F https://www.ti.com/lit/ds/symlink/cd4093b.pdf
+$ENDCMP
+#
+#End Doc Library
